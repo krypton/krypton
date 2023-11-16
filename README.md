@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krypton
 - 👀 I’m interested in learning all the things related with software development and dig deep about human performance on endurance sports (specially triathlon)
-- 🌱 I’m currently learning Rust and on my spare time I like to play with my nvim configurations
+- 🌱 I’m currently learning Golang and on my spare time I like to play with my nvim configurations
 - 📫 You can reach me by email tiagofredericodias@gmail.com
 
 <!---
